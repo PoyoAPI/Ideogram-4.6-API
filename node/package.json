@@ -1,0 +1,8 @@
+{
+  "name": "poyo-ideogram-4-6-api-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "model": "ideogram-v4.6",
+  "input": {
+    "prompt": "A flat die-cut sticker of a burnt orange saxophone inside a round teal badge that reads \"NORTHBOUND JAZZ\" in bold cream letters, thick white outline, sticker only.",
+    "size": "1:1 HD",
+    "quality": "low",
+    "background": "transparent",
+    "seed": 42
+  }
+}

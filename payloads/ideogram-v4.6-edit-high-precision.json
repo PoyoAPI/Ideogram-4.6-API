@@ -1,0 +1,12 @@
+{
+  "model": "ideogram-v4.6-edit",
+  "input": {
+    "prompt": "Change only the date line to \"JULY 3-5 · RIVERSIDE PARK\". Keep everything else exactly the same.",
+    "image_urls": [
+      "https://storage.poyo.ai/models/ideogram-4-6/examples/northbound-poster-1536x2048-33b756f3bed0.jpg"
+    ],
+    "edit_precision": "high",
+    "size": "auto",
+    "quality": "high"
+  }
+}

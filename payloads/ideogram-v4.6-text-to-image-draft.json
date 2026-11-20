@@ -1,0 +1,8 @@
+{
+  "model": "ideogram-v4.6",
+  "input": {
+    "prompt": "Screen-printed concert poster for \"NORTHBOUND JAZZ FESTIVAL\". Big bold condensed headline at the top, a stylized upright bass and saxophone silhouette over a river at dusk in deep teal, burnt orange and cream. Below the art, the line \"JUNE 12-14 · RIVERSIDE PARK\" and a smaller line \"Three nights. Twenty-one bands. Free entry before 6 PM.\" Fine paper grain, crisp letterforms, generous margins.",
+    "size": "3:4",
+    "quality": "very_low"
+  }
+}

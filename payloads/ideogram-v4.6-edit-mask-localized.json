@@ -1,0 +1,13 @@
+{
+  "model": "ideogram-v4.6-edit",
+  "input": {
+    "prompt": "Change the date line to \"JULY 3-5 · RIVERSIDE PARK\" in the same orange letters and spacing.",
+    "image_urls": [
+      "https://storage.poyo.ai/models/ideogram-4-6/examples/northbound-poster-1536x2048-33b756f3bed0.jpg"
+    ],
+    "mask_url": "https://storage.poyo.ai/models/ideogram-4-6/examples/northbound-date-line-mask-1536x2048-f9fd434f23fd.png",
+    "edit_precision": "high",
+    "context_window": "auto",
+    "quality": "medium"
+  }
+}
